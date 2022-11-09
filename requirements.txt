@@ -1,6 +1,5 @@
 numpy
 Cython
-h5py==2.10
 Pillow
 six
 scipy
