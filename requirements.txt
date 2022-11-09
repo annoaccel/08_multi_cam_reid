@@ -14,7 +14,7 @@ flake8
 yapf
 isort
 imageio
-tensorflow==1.15
+tensorflow
 tensorflow-gpu==1.15
 scikit-learn==0.22.2
 torch
