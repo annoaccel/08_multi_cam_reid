@@ -21,7 +21,6 @@ torch
 torchvision
 keras
 streamlit
-subprocess
 torchvision
 cudatoolkit
 pytorch
